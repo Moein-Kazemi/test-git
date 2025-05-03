@@ -1,0 +1,2 @@
+working diractory  => stagging area => local repository => remote repository
+git-github-udemi => git add => git commit => git push
